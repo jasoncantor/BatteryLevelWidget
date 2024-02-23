@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "BatteryBack.png",
       "idiom" : "vision",
       "scale" : "2x"
     }
