@@ -12,6 +12,7 @@ struct BatteryLevelWidgetApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }.windowStyle(.volumetric)
+        }.windowStyle(.plain)
+        .windowResizability(.contentSize)
     }
 }
